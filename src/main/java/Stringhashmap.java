@@ -1,6 +1,7 @@
 import java.util.*;
 
 public class Stringhashmap {
+    //first push
 
     public static void setExample() {
         Set<Integer> setInt = new HashSet<>();
